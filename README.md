@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone</h1>
-<h3 align="center">A passionate front end developer</h3>
+<h3 align="center">I'm a passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markteekens&label=Profile%20views&color=0e75b6&style=flat" alt="markteekens" /> </p>
 
