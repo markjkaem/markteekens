@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/zackchagal" target="blank"><img src="https://img.shields.io/twitter/follow/zackchagal?logo=twitter&style=for-the-badge" alt="zackchagal" /></a> </p>
 
-- 🌱 I’m currently learning **Qwik**
-
 - 💬 Ask me about **React, NextJS, Vue, Nuxt3**
 
 - 📫 How to reach me **mark.teekens@outlook.com**
